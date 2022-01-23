@@ -1,16 +1,30 @@
-### Hi there <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=switTV&show_icons=true"/>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+### Hola a todos! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
-![GitHub stats](width="35%" align="right" https://github-readme-stats.vercel.app/api?username=switTV&show_icons=true)
+<hr>
 
-I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+soy un estudiante de platzi, con ganas de poder participar en la revolucion tech de latinoamerica y si dios me ayuda, ser un genio, millonario, playboy y filantropo🤖.
 
-- 🔭 .
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+### Sobre mi 🤠
+
+<hr>
+
+- 📚 actualmente estoy aprendiendo desarrollo web frontend usando HTML, CSS, JS & REACT en PLATZI.
+- 👯 Estoy buscando ser nominado para un premio "github star" pero para eso falta un tiempo
+ 
+
+
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/switTV">
+</a>
+
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=switTV">
+</a>
+
+
+⭐️ From [switTV](https://github.com/hazemessam)
+Inspired from [hazemessam](https://github.com/abdelrahmanbayoumi)
 
