@@ -14,6 +14,8 @@ soy un estudiante de platzi, con ganas de poder participar en la revolucion tech
 - 📚 actualmente estoy aprendiendo desarrollo web frontend usando HTML, CSS, JS & REACT en PLATZI.
 - 👯 Estoy buscando ser nominado para un premio "github star" pero para eso falta un tiempo
 
+github's stats[!]https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats
+
 <img style="aling='right' " src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats"></img>
 
 <a href="https://github.com/iCharlesZ">
