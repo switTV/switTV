@@ -14,6 +14,8 @@ soy un estudiante de platzi, con ganas de poder participar en la revolucion tech
 - 📚 actualmente estoy aprendiendo desarrollo web frontend usando HTML, CSS, JS & REACT en PLATZI.
 - 👯 Estoy buscando ser nominado para un premio "github star" pero para eso falta un tiempo
  
+<img align="left" alt="switTV's Github Stats" src="https://github-readme-stats.vercel.app/api?username=switTV&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <a href="https://github.com/iCharlesZ">
