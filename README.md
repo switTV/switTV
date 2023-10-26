@@ -7,8 +7,6 @@ soy un estudiante de platzi, con ganas de poder participar en la revolucion tech
 
 ### Sobre mi 🤠
 
-<hr>
-
 - 📚 actualmente estoy aprendiendo desarrollo web frontend usando HTML, CSS, JS & REACT en PLATZI.
 - 👯 Estoy buscando ser nominado para un premio "github star" pero para eso falta un tiempo
 
