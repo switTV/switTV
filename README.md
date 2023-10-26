@@ -1,5 +1,3 @@
-<img align="right" width="500" src="https://github-readme-stats.vercel.app/api?username=switTV&show_icons=true"/>
-
 ### Hola a todos! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
 <hr>
