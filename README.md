@@ -2,7 +2,7 @@
 
 <hr>
 
-soy un estudiante de platzi, con ganas de poder participar en la revolucion tech de latinoamerica y si dios me ayuda, ser un genio, millonario, playboy y filantropo🤖.
+soy un estudiante, con ganas de poder participar en la revolucion tech de latinoamerica y si dios me ayuda, ser un genio, millonario, playboy y filantropo🤖.
 
 
 ### Sobre mi 🤠
